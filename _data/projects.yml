@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# 배터리 충전기 설계
+- project: 배터리충전기 설계
+  role: 회로설계&최종발표
+  duration: 2020
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: 배터리의 특성을 이해하고 배터리를 충전할 수 있는 회로를 설계 및 제어.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# 전력변환시스템설계
+- project: 전력변환시스템설계_수강예정
+  role: 미정
+  duration: 2022
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: 전력변환시스템설계과목을 수강하여 전력변환시스템을 설계하는 프로젝트를 진행해보고 싶다.
+
+# 마이크로프로세서응용및설계
+- project: 마이크로프로세서응용및설계_수강예정
+  role: 미정
+  duration: 2022
+  # url: "#"
+  description: 직전학기 폐강으로 수강에 실패한 마이크로프로세서응용및설계 과목을 수강하여 드론제어, AWS 등의 기술을 익히고 싶다.
